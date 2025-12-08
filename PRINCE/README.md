@@ -22,7 +22,8 @@ PRINCE_masked_asap7/
 ├── techlef/
 │   └── asap7_tech_4x_201209.lef
 ├── tcl/
-│   └── innovus_flow.tcl         
+│   └── run_innovus.tcl
+    └── run_genus.tcl       
 └── res/
     └── innovus_rpt/             
     └── genus_rpt/  
