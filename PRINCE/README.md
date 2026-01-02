@@ -1,5 +1,5 @@
 # Masked PRINCE Lightweight Block Cipher – 7 nm ASAP7 Implementation  
-This repository contains a complete digital implementation flow for a **masked PRINCE block cipher core** targeting **7nm FinFET technology** (ASAP7 PDK). The design supports **dual-share first-order masking**, making it resilient against **side-channel attacks**. The flow includes **RTL-to-GDSII** implementation using **Cadence Genus** for synthesis and **Cadence Innovus** for physical implementation.
+This repository contains a complete digital implementation flow for a **masked PRINCE block cipher core** targeting **7nm FinFET technology** (ASAP7 PDK). The design supports **first-order masking**, making it resilient against **side-channel attacks**. The flow includes **RTL-to-GDSII** implementation using **Cadence Genus** for synthesis and **Cadence Innovus** for physical implementation.
 
 ---
 
